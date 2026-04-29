@@ -883,7 +883,7 @@
     "abilityWeaponMounts": [],
     "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 155000,
-    "moveSpeed": 2.700000047683716,
+    "moveSpeed": 3.0999999046325685,
     "abilityType": 1,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,

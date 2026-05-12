@@ -10,7 +10,7 @@
             "z": -0.5290005207061768
         },
         {
-            "x": 0.01099999900907278,
+            "x": -3.637978807091713e-10,
             "y": 4.145999431610107,
             "z": -0.5290005207061768
         },
@@ -486,7 +486,7 @@
         "cooldownTime": 13.0,
         "timeActive": 4.0,
         "primaryEffectMultiplier": 0.25,
-        "secondaryEffectMultiplier": 1.399999976158142,
+        "secondaryEffectMultiplier": 1.75,
         "firstActivationEffectMultiplier": 1.0,
         "gravityValue": 1.0,
         "maxCharges": 1,

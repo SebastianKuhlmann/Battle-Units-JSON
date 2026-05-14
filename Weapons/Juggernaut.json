@@ -3,7 +3,7 @@
     "quantumCoresCost": 0,
     "shootInterval": 1.0,
     "particlesPerShot": 8,
-    "damage": 388.0,
+    "damage": 378.0,
     "burstInterval": 0.30000001192092898,
     "burstAmount": 2,
     "reloadTime": 3.0,

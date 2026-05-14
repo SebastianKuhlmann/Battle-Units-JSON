@@ -6,7 +6,7 @@
     "damage": 96.5999984741211,
     "burstInterval": 0.0,
     "burstAmount": 0,
-    "reloadTime": 5.0,
+    "reloadTime": 4.0,
     "continuousReload": false,
     "ammo": 80,
     "barrelAmount": 1,

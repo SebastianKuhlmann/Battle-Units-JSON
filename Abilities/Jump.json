@@ -3,6 +3,7 @@
     "timeActive": 0.20000000298023225,
     "primaryEffectMultiplier": 15.0,
     "secondaryEffectMultiplier": 22.0,
+    "tertiaryEffectMultiplier": 0.0,
     "firstActivationEffectMultiplier": 1.0,
     "gravityValue": 1.0,
     "maxCharges": 1,

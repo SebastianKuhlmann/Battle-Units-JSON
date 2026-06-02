@@ -1,9 +1,9 @@
 {
     "alloyCost": 0,
-    "quantumCoresCost": 500,
+    "quantumCoresCost": 50000,
     "shootInterval": 1.0,
     "particlesPerShot": 1,
-    "damage": 2572.0,
+    "damage": 3216.0,
     "burstInterval": 0.4000000059604645,
     "burstAmount": 2,
     "reloadTime": 3.0,
@@ -33,20 +33,20 @@
     "ammoType": 5,
     "weaponType": 15,
     "weaponClass": 1,
-    "bulletType": 11,
-    "hitType": 9,
+    "bulletType": 12,
+    "hitType": 10,
     "reloadAnimation": {
         "instanceID": 0
     },
     "weaponMuzzles": [
         {
             "x": 0.0,
-            "y": 0.10000000149011612,
-            "z": 0.800000011920929
+            "y": 0.0,
+            "z": 0.5
         }
     ],
     "weaponPrefab": {
-        "instanceID": 170292
+        "instanceID": 86204
     },
     "cameraShakeIntensity": 1.0
 }

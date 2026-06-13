@@ -31,13 +31,13 @@
         2
     ],
     "robotPrefab": {
-        "instanceID": 86494
+        "instanceID": 90170
     },
     "robotType": 7,
     "robotMovementType": 2,
     "hardcoreClipsPerWeapon": 0,
     "shieldType": 3,
     "buildInShieldParameterHolder": {
-        "instanceID": 81144
+        "instanceID": 81180
     }
 }

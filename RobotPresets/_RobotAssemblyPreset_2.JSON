@@ -433,7 +433,7 @@
     ],
     "abilityWeapons": [],
     "shieldConfig": {
-        "shieldType": 2,
+        "shieldType": 3,
         "shieldCanBeShotThroughByAllies": true,
         "unlimitedShieldHp": false,
         "maxShieldHp": 15000,

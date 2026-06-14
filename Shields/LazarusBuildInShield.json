@@ -1,5 +1,5 @@
 {
-    "abilityShieldType": 3,
+    "abilityShieldType": 4,
     "shieldCanBeShotThroughByAllies": true,
     "unlimitedShieldHp": false,
     "maxShieldHp": 5000,

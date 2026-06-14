@@ -4,7 +4,7 @@
     "unlimitedShieldHp": false,
     "maxShieldHp": 50000,
     "shieldReactivationTreshold": 5000,
-    "shieldRechargeRatePerSecond": 250.0,
+    "shieldRechargeRatePerSecond": 350.0,
     "shieldOffset": {
         "x": 0.0,
         "y": 0.0,

@@ -3,7 +3,7 @@
     "shieldCanBeShotThroughByAllies": true,
     "unlimitedShieldHp": false,
     "maxShieldHp": 50000,
-    "shieldReactivationTreshold": 5000,
+    "shieldReactivationTreshold": 15000,
     "shieldRechargeRatePerSecond": 350.0,
     "shieldOffset": {
         "x": 0.0,

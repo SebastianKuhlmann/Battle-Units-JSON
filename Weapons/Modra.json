@@ -36,7 +36,7 @@
     "bulletType": 3,
     "hitType": 1,
     "reloadAnimation": {
-        "instanceID": 0
+        "instanceID": -413148
     },
     "weaponMuzzles": [
         {
@@ -71,7 +71,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 100178
+        "instanceID": 86640
     },
     "cameraShakeIntensity": 1.25
 }

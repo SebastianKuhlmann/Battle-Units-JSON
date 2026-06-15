@@ -1,30 +1,30 @@
 {
     "alloyCost": 0,
-    "quantumCoresCost": 0,
-    "shootInterval": 0.20000000298023225,
+    "quantumCoresCost": 100000,
+    "shootInterval": 3.0,
     "particlesPerShot": 1,
-    "damage": 1054.0,
-    "burstInterval": 0.0,
-    "burstAmount": 0,
-    "reloadTime": 10.0,
+    "damage": 441.0,
+    "burstInterval": 0.05000000074505806,
+    "burstAmount": 24,
+    "reloadTime": 6.0,
     "continuousReload": false,
-    "ammo": 7,
-    "barrelAmount": 1,
-    "barrelSelectionBasedOnAmmoCount": false,
-    "bulletSpeed": 80.0,
+    "ammo": 24,
+    "barrelAmount": 6,
+    "barrelSelectionBasedOnAmmoCount": true,
+    "bulletSpeed": 60.0,
     "bulletLifeTime": 4.0,
     "bulletTimeAliveAfterHit": 2.0,
-    "bulletSize": 0.05000000074505806,
-    "range": 1500.0,
-    "verticalSpread": 0.0,
-    "horizontalSpread": 0.0,
-    "explosionRange": 5.0,
-    "guidedBullet": true,
-    "homingNoiseFrequency": 1.5,
-    "homingNoiseAmplitude": 1.5,
-    "homingStrength": 10.0,
-    "upwardRiseTime": 0.20000000298023225,
-    "upwardRiseStrength": 0.20000000298023225,
+    "bulletSize": 0.10000000149011612,
+    "range": 150.0,
+    "verticalSpread": 0.10000000149011612,
+    "horizontalSpread": 0.10000000149011612,
+    "explosionRange": 6.0,
+    "guidedBullet": false,
+    "homingNoiseFrequency": 0.0,
+    "homingNoiseAmplitude": 0.0,
+    "homingStrength": 0.0,
+    "upwardRiseTime": 0.0,
+    "upwardRiseStrength": 0.0,
     "arcBullet": false,
     "arcLaunchAngle": 0.0,
     "arcLaunchAngleRandomness": 0.0,
@@ -32,21 +32,46 @@
     "maxArcEndpointRange": 0.0,
     "ammoType": 4,
     "weaponType": 22,
-    "weaponClass": 0,
-    "bulletType": 1,
+    "weaponClass": 2,
+    "bulletType": 3,
     "hitType": 1,
     "reloadAnimation": {
-        "instanceID": 0
+        "instanceID": 350544
     },
     "weaponMuzzles": [
         {
+            "x": 0.10000000149011612,
+            "y": 0.24539999663829804,
+            "z": 0.23199999332427979
+        },
+        {
             "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
+            "y": 0.18970000743865968,
+            "z": 0.23199999332427979
+        },
+        {
+            "x": -0.10000000149011612,
+            "y": 0.24539999663829804,
+            "z": 0.23199999332427979
+        },
+        {
+            "x": -0.10000000149011612,
+            "y": 0.20000000298023225,
+            "z": 0.23199999332427979
+        },
+        {
+            "x": 0.0,
+            "y": 0.25119999051094057,
+            "z": 0.23199999332427979
+        },
+        {
+            "x": 0.10000000149011612,
+            "y": 0.20000000298023225,
+            "z": 0.23199999332427979
         }
     ],
     "weaponPrefab": {
-        "instanceID": 0
+        "instanceID": 350854
     },
-    "cameraShakeIntensity": 0.0
+    "cameraShakeIntensity": 1.25
 }

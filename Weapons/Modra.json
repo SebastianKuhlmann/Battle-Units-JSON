@@ -3,15 +3,15 @@
     "quantumCoresCost": 100000,
     "shootInterval": 3.0,
     "particlesPerShot": 1,
-    "damage": 704.0,
-    "burstInterval": 0.05000000074505806,
-    "burstAmount": 24,
+    "damage": 1408.0,
+    "burstInterval": 0.10000000149011612,
+    "burstAmount": 12,
     "reloadTime": 6.0,
     "continuousReload": false,
-    "ammo": 24,
+    "ammo": 12,
     "barrelAmount": 3,
     "barrelSelectionBasedOnAmmoCount": true,
-    "bulletSpeed": 60.0,
+    "bulletSpeed": 30.0,
     "bulletLifeTime": 4.0,
     "bulletTimeAliveAfterHit": 2.0,
     "bulletSize": 0.10000000149011612,
@@ -36,7 +36,7 @@
     "bulletType": 3,
     "hitType": 1,
     "reloadAnimation": {
-        "instanceID": -413148
+        "instanceID": 568105584918914360
     },
     "weaponMuzzles": [
         {
@@ -71,7 +71,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 86640
+        "instanceID": 568105584918918636
     },
     "cameraShakeIntensity": 1.25
 }

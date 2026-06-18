@@ -11,7 +11,7 @@
     "ammo": 18,
     "barrelAmount": 1,
     "barrelSelectionBasedOnAmmoCount": false,
-    "bulletSpeed": 110.0,
+    "bulletSpeed": 80.0,
     "bulletLifeTime": 4.0,
     "bulletTimeAliveAfterHit": 0.0,
     "bulletSize": 0.10000000149011612,
@@ -46,7 +46,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 86660
+        "instanceID": 568105584918918584
     },
     "cameraShakeIntensity": 0.5
 }

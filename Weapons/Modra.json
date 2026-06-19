@@ -8,7 +8,7 @@
     "burstAmount": 24,
     "reloadTime": 6.0,
     "continuousReload": false,
-    "ammo": 12,
+    "ammo": 24,
     "barrelAmount": 3,
     "barrelSelectionBasedOnAmmoCount": true,
     "bulletSpeed": 30.0,
@@ -36,7 +36,7 @@
     "bulletType": 3,
     "hitType": 1,
     "reloadAnimation": {
-        "instanceID": 568105584918914360
+        "instanceID": 568105584918873588
     },
     "weaponMuzzles": [
         {
@@ -71,7 +71,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 568105584918918636
+        "instanceID": 568105584918879948
     },
     "cameraShakeIntensity": 1.25
 }

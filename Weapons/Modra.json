@@ -3,7 +3,7 @@
     "quantumCoresCost": 100000,
     "shootInterval": 3.0,
     "particlesPerShot": 1,
-    "damage": 704.0,
+    "damage": 632.0,
     "burstInterval": 0.10000000149011612,
     "burstAmount": 24,
     "reloadTime": 6.0,
@@ -36,7 +36,7 @@
     "bulletType": 3,
     "hitType": 1,
     "reloadAnimation": {
-        "instanceID": 568105584918873588
+        "instanceID": 568105584918873592
     },
     "weaponMuzzles": [
         {

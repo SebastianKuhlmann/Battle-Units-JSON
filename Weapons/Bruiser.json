@@ -3,7 +3,7 @@
     "quantumCoresCost": 100000,
     "shootInterval": 1.0,
     "particlesPerShot": 8,
-    "damage": 1786.0,
+    "damage": 893.0,
     "burstInterval": 0.0,
     "burstAmount": 0,
     "reloadTime": 3.0,
@@ -31,22 +31,22 @@
     "minArcEndpointRange": 0.0,
     "maxArcEndpointRange": 0.0,
     "ammoType": 3,
-    "weaponType": 23,
-    "weaponClass": 1,
-    "bulletType": 10,
-    "hitType": 4,
+    "weaponType": 24,
+    "weaponClass": 2,
+    "bulletType": 9,
+    "hitType": 5,
     "reloadAnimation": {
         "instanceID": 0
     },
     "weaponMuzzles": [
         {
             "x": 0.0,
-            "y": 0.05079999938607216,
-            "z": 0.5
+            "y": 0.0,
+            "z": 0.4000000059604645
         }
     ],
     "weaponPrefab": {
-        "instanceID": 568105584918968520
+        "instanceID": 568105584919060002
     },
-    "cameraShakeIntensity": 7.0
+    "cameraShakeIntensity": 3.0
 }

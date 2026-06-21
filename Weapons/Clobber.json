@@ -11,7 +11,7 @@
     "ammo": 1,
     "barrelAmount": 1,
     "barrelSelectionBasedOnAmmoCount": false,
-    "bulletSpeed": 25.0,
+    "bulletSpeed": 30.0,
     "bulletLifeTime": 5.0,
     "bulletTimeAliveAfterHit": 0.05000000074505806,
     "bulletSize": 0.10000000149011612,

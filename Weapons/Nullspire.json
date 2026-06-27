@@ -38,6 +38,7 @@
     "reloadAnimation": {
         "instanceID": 0
     },
+    "reloadAnimationLength": 0.0,
     "weaponMuzzles": [
         {
             "x": 0.07500000298023224,

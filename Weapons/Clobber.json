@@ -2,7 +2,7 @@
     "alloyCost": 0,
     "quantumCoresCost": 100000,
     "shootInterval": 1.0,
-    "particlesPerShot": 8,
+    "particlesPerShot": 6,
     "damage": 1766.0,
     "burstInterval": 0.0,
     "burstAmount": 0,
@@ -16,8 +16,8 @@
     "bulletTimeAliveAfterHit": 0.05000000074505806,
     "bulletSize": 0.10000000149011612,
     "range": 150.0,
-    "verticalSpread": 1.0,
-    "horizontalSpread": 1.0,
+    "verticalSpread": 0.5,
+    "horizontalSpread": 0.5,
     "explosionRange": 0.0,
     "guidedBullet": false,
     "homingNoiseFrequency": 0.0,
@@ -38,6 +38,7 @@
     "reloadAnimation": {
         "instanceID": 0
     },
+    "reloadAnimationLength": 0.0,
     "weaponMuzzles": [
         {
             "x": 0.0,

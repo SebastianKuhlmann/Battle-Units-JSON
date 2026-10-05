@@ -2,7 +2,7 @@
     "alloyCost": 0,
     "quantumCoresCost": 250000,
     "hp": 168800,
-    "moveSpeed": 2.4000000953674318,
+    "moveSpeed": 2.4000000953674316,
     "slopePushdownSpeedMultiplier": 7.0,
     "maxSlopeAngle": 50.0,
     "abilityType": 11,
@@ -17,7 +17,7 @@
         {
             "x": 1.862645149230957e-9,
             "y": 4.319999694824219,
-            "z": -0.26999998092651369
+            "z": -0.26999998092651367
         },
         {
             "x": 0.824999988079071,
@@ -31,13 +31,13 @@
         2
     ],
     "robotPrefab": {
-        "instanceID": 568105584918879996
+        "instanceID": 1099511681889
     },
     "robotType": 11,
     "robotMovementType": 1,
     "hardcoreClipsPerWeapon": 0,
     "shieldType": 4,
     "buildInShieldParameterHolder": {
-        "instanceID": 568105584918873742
+        "instanceID": 1099511677749
     }
 }

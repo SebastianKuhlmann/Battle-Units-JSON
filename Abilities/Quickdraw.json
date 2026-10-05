@@ -13,8 +13,8 @@
     "rechargeAllChargesAtOnce": false,
     "startCooldownAfterAbilityEnd": false,
     "abilityType": 14,
-    "shieldType": 0,
+    "shieldType": 6,
     "shieldParameterHolder": {
-        "instanceID": 0
+        "instanceID": 1099511684013
     }
 }

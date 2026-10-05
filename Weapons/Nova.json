@@ -16,8 +16,8 @@
     "bulletTimeAliveAfterHit": 0.0,
     "bulletSize": 0.10000000149011612,
     "range": 350.0,
-    "verticalSpread": 0.30000001192092898,
-    "horizontalSpread": 0.30000001192092898,
+    "verticalSpread": 0.30000001192092896,
+    "horizontalSpread": 0.30000001192092896,
     "explosionRange": 0.0,
     "guidedBullet": false,
     "homingNoiseFrequency": 0.0,
@@ -42,12 +42,12 @@
     "weaponMuzzles": [
         {
             "x": 0.0,
-            "y": 0.07000000029802323,
-            "z": 0.20000000298023225
+            "y": 0.07000000029802322,
+            "z": 0.20000000298023224
         }
     ],
     "weaponPrefab": {
-        "instanceID": 568105584918880036
+        "instanceID": 1099511681909
     },
     "cameraShakeIntensity": 0.5
 }

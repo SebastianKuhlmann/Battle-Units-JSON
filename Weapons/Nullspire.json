@@ -1,7 +1,7 @@
 {
     "alloyCost": 0,
     "quantumCoresCost": 50000,
-    "shootInterval": 0.44999998807907107,
+    "shootInterval": 0.44999998807907104,
     "particlesPerShot": 1,
     "damage": 522.0,
     "burstInterval": 0.0,
@@ -42,17 +42,17 @@
     "weaponMuzzles": [
         {
             "x": 0.07500000298023224,
-            "y": 0.07000000029802323,
+            "y": 0.07000000029802322,
             "z": 0.4000000059604645
         },
         {
             "x": -0.07500000298023224,
-            "y": 0.07000000029802323,
+            "y": 0.07000000029802322,
             "z": 0.4000000059604645
         }
     ],
     "weaponPrefab": {
-        "instanceID": 568105584918880046
+        "instanceID": 1099511681914
     },
     "cameraShakeIntensity": 2.0
 }

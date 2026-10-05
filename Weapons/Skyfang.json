@@ -4,7 +4,7 @@
     "shootInterval": 0.6000000238418579,
     "particlesPerShot": 1,
     "damage": 1266.0,
-    "burstInterval": 0.20000000298023225,
+    "burstInterval": 0.20000000298023224,
     "burstAmount": 2,
     "reloadTime": 6.0,
     "continuousReload": false,
@@ -16,15 +16,15 @@
     "bulletTimeAliveAfterHit": 2.0,
     "bulletSize": 0.05000000074505806,
     "range": 1500.0,
-    "verticalSpread": 0.30000001192092898,
-    "horizontalSpread": 0.30000001192092898,
+    "verticalSpread": 0.30000001192092896,
+    "horizontalSpread": 0.30000001192092896,
     "explosionRange": 5.0,
     "guidedBullet": true,
     "homingNoiseFrequency": 1.5,
     "homingNoiseAmplitude": 1.5,
     "homingStrength": 10.0,
-    "upwardRiseTime": 0.30000001192092898,
-    "upwardRiseStrength": 0.30000001192092898,
+    "upwardRiseTime": 0.30000001192092896,
+    "upwardRiseStrength": 0.30000001192092896,
     "arcBullet": false,
     "arcLaunchAngle": 0.0,
     "arcLaunchAngleRandomness": 0.0,
@@ -47,12 +47,12 @@
         },
         {
             "x": -0.05000000074505806,
-            "y": 0.031000003218650819,
+            "y": 0.031000003218650818,
             "z": 0.550000011920929
         },
         {
             "x": 0.05000000074505806,
-            "y": 0.031000003218650819,
+            "y": 0.031000003218650818,
             "z": 0.550000011920929
         },
         {
@@ -62,7 +62,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 568105584918880014
+        "instanceID": 1099511681898
     },
     "cameraShakeIntensity": 1.25
 }
